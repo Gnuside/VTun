@@ -1,0 +1,10 @@
+00-sslauth.patch
+01-pidfile.patch
+02-dumpfile.patch
+03-signedness-warnings.patch
+04-implicit-pointer-conversions.patch
+05-unix98pty.patch
+06-ipv6.patch
+07-dual-family-transport.patch
+08-gcc5-inline.patch
+09-client-uses-lot-of-CPU-after-a-SIGHUP.patch
